@@ -1,0 +1,76 @@
+body {
+    background: linear-gradient(yellow, white, rgb(198, 101, 10));
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height:100%
+}
+h1{
+    background-color:rgb(31, 223, 21);
+    font-family: "Shadows Into Light", cursive;
+}
+.image{
+    height:inherit;
+    width:inherit;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 36px;
+    color: #333;
+}
+.Doremon{
+    font-family:  "Dancing Script", cursive;
+    color:red;
+}
+#Nobita{
+    font-family: "Shadows Into Light", cursive;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #666;
+}
+
+.Submit{
+    background: linear-gradient(red, white);
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+.text{
+    background: linear-gradient(rgb(146, 226, 226), rgb(238, 92, 92));
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
