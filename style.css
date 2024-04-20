@@ -64,6 +64,9 @@ p {
 .head{
 
 }
+.dot{
+    text-align: center;
+}
 
 footer {
     text-align: center;
@@ -80,4 +83,9 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+.h1{
+    color: red;
+    font-size: 40px;
+    font-family:  "Sedan", serif;;
 }
