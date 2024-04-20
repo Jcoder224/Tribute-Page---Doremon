@@ -7,7 +7,6 @@ body {
     height:100%
 }
 h1{
-    background-color:rgb(31, 223, 21);
     font-family: "Shadows Into Light", cursive;
 }
 .image{
@@ -56,6 +55,12 @@ p {
 
 .Submit{
     background: linear-gradient(red, white);
+}
+.head{
+    background-image: red;
+}
+.head{
+
 }
 
 footer {
